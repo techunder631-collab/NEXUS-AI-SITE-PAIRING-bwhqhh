@@ -1,5 +1,5 @@
 
-
+3uu3u3i3ik3vsysndnrbdbsndjsnjsjeh
 import fetch from 'node-fetch';
 import { Sticker, StickerTypes } from 'wa-sticker-formatter';
 import { promises as fs } from 'fs';
